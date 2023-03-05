@@ -517,7 +517,7 @@ RunService.Stepped:Connect(function()
     end
 end)
 
-rconsolename("Exo | made by 6uxa#0001")
+rconsolename("Exo | discord.gg/a4wAhvACNq")
 function aorimain()
 aorinjectbase([[
 
@@ -534,7 +534,7 @@ aorinjectbase([[
                              
                                                      
 
-                                        [insert punchline here]
+                                        [ Exo Stay Winning ]
 
 
                                 [1] Load exo []] ..aorinjectstatus ..[[]
